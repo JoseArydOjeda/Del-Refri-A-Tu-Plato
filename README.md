@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <tittle>De tu refri a tu cocina</tittle>
+  <tittle>Del Refria tu Plato</tittle>
 </head>
 <body>
 <H1>De-Tu-Refri-a-Tu-Cocina</H1>
