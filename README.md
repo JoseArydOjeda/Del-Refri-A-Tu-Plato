@@ -32,10 +32,10 @@ Cuando se use el filtro para buscar una receta usando ingredientes, el sistema d
 Para simplificar la presentación solo se deben presentar el nombre de la receta y los ingredientes, los detalles o pasos a 
 seguir deben aparecer en un página independiente.
 <br/> 
-</H2> RF-01  </H2>
+<H2> RF-01  </H2>
 Al llegar  a la página se presentará una página de bienvenida.
 <br/>  
- </H2> RF-02 </H2>
+ <H2> RF-02 </H2>
 En la página aparecerán las 5 recetas más solicitadas y las instrucciones de uso del sitio
 <br/>
 <H2>  RNF-01 </H2>
