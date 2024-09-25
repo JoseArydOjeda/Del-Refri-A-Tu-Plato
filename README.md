@@ -73,7 +73,13 @@ Si el visitante da clic en el botón del filtro sin haber escrito algo en la cas
 <br>
 <h2> RF-10 </h2>
  <p>En la parte inferior del filtro antes de hacer una consulta aparecera un boton para agregar nuevas recetas</p>
-
+<br/>
+<h2> RF-11 </h2>
+Cuando se presenten los resultados de la consulta, el botón aparecerá debajo del listado.
+  <br/>
+<h2> RF-12 </h2>
+Una receta debe tener Nombre, instrucciones de elaboración (pasos) e ingredientes.
+  <br/>
 </article>
 <article>
 <H2>  RNF-01 </H2>
@@ -91,9 +97,12 @@ El producto se usará localmente en la laptop de forma local.
 <H2> RNF-05 </H2>
   <p> La página será compatible con varios navegadores (brave,Chrome,Fox etc.). </p>
   <br />
-<h2> RNF--06</h2>
+<h2> RNF-06</h2>
   <p>El codigo de todo el producto estara documentado y bien estructurado para futuras lecturas y actualizaciones</p>
   <br>
+<h2> RNF-07</h2>
+Todo será de fácil navegación para la facilitación del disfrute y uso de la página.
+  <br/>
 </article>
 <article>
 <H2>Especificaciones técnicas para la versión Prototipo: </H2>
