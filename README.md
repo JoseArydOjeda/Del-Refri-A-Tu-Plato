@@ -57,6 +57,12 @@ d. Acerca del sitio. (Créditos a los autores)
 <h2> RF-06 </h2>
 Si el visitante da clic en el botón del filtro sin haber escrito algo en la casilla, el sistema presentará todas las recetas.
 <br />
+<H2> RF-07 </H2>
+  <p> Si se escribe una palabra o más palabras separadas por comas, el sistema realizará la búsqueda y presentará las recetas que contengan estos ingredientes. </p>
+  <br />
+<H2> RF-08 </H2>
+  <p> La página deberá presentar la(s) receta(s) que contengan el ingrediente en una lista con nombre e ingredientes, sin las instrucciones. </p>
+  <br />
 </article>
 <article>
 <H2>  RNF-01 </H2>
@@ -71,6 +77,9 @@ Se van a necesitar a 6 desarrolladores para realizar el código y un (1) QA que 
 <H2>  RNF-04 </H2>
 El producto se usará localmente en la laptop de forma local.
 <br/>
+<H2> RNF-05 </H2>
+  <p> La página será compatible con varios navegadores (brave,Chrome,Fox etc.). </p>
+  <br />
 </article>
 <article>
 <H2>Especificaciones técnicas para la versión Prototipo: </H2>
