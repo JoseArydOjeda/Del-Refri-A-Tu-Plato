@@ -63,6 +63,17 @@ Si el visitante da clic en el botón del filtro sin haber escrito algo en la cas
 <H2> RF-08 </H2>
   <p> La página deberá presentar la(s) receta(s) que contengan el ingrediente en una lista con nombre e ingredientes, sin las instrucciones. </p>
   <br />
+<h2> RF-09 </h2>
+ <p>En la lista presentada, a la derecha de cada receta tendremos dos opciones:</p>
+ <ol>
+  <li>Ver detalle (para ver las instrucciones o los pasos de elaboracion)</li>
+  <li>Editar (Para poder modificar la receta)</li>
+  <li>Eliminar (Para borrar una receta)</li>
+ </ol>
+<br>
+<h2> RF-10 </h2>
+ <p>En la parte inferior del filtro antes de hacer una consulta aparecera un boton para agregar nuevas recetas</p>
+
 </article>
 <article>
 <H2>  RNF-01 </H2>
@@ -80,6 +91,9 @@ El producto se usará localmente en la laptop de forma local.
 <H2> RNF-05 </H2>
   <p> La página será compatible con varios navegadores (brave,Chrome,Fox etc.). </p>
   <br />
+<h2> RNF--06</h2>
+  <p>El codigo de todo el producto estara documentado y bien estructurado para futuras lecturas y actualizaciones</p>
+  <br>
 </article>
 <article>
 <H2>Especificaciones técnicas para la versión Prototipo: </H2>
