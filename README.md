@@ -32,6 +32,7 @@ Cuando se use el filtro para buscar una receta usando ingredientes, el sistema d
 Para simplificar la presentación solo se deben presentar el nombre de la receta y los ingredientes, los detalles o pasos a 
 seguir deben aparecer en un página independiente.
 <br/> 
+<article>
 <H2> RF-01  </H2>
 Al llegar  a la página se presentará una página de bienvenida.
 <br/>  
@@ -48,12 +49,25 @@ c. Aviso de privacidad.
 <br/>
 d. Acerca del sitio. (Créditos a los autores)
 <br/>
+<h2> RF-04 </h2>
+  <p> Si el visitante selecciona la opción "Recetas", ingresará a la aplicación. </p>
+  <br />
+<h2> RF-05 </h2>
+  <p> En la parte superior aparecerá un filtro para que el usuario pueda escribir el nombre de alguno de los ingredientes de la receta que sea de su interés. </p>
+  <br />
+</article>
+<article>
 <H2>  RNF-01 </H2>
 Las recetas deberán salir en menos de 3 segundos 
 <br/>
 <H2>  RNF-02 </H2>
 Se van a necesitar a 6 desarrolladores para realizar el código y un (1) QA que pruebe el producto
 <br/>
+<h2> RNF-03 </h2>
+  <p> El producto estará disponible el 99.9% de las veces. </p>
+  <br />
+</article>
+<article>
 <H2>Especificaciones técnicas para la versión Prototipo: </H2>
 Las recetas no tendrán imágenes.
 El prototipo no tendrá seguridad
