@@ -6,7 +6,6 @@
   <tittle>Del Refria tu Plato</tittle>
 </head>
 <body>
-<H1>De-Tu-Refri-a-Tu-Cocina</H1>
 
 <H2><center>¡Hola!, bienvenido a tu nueva página favorita acerca de cocina, donde podrás encontrar diferentes recetas de cocina que saciarán tu paladar, prueba con algunas de las recetas que tenemos para ti.</center></H2>
 <br />
@@ -58,7 +57,6 @@ d. Acerca del sitio. (Créditos a los autores)
 <H2> RF-06 </H2>
 Si el visitante da clic en el botón del filtro sin haber escrito algo en la casilla, el sistema presentará todas las recetas.
 <br/>
-  
 </article>
 <article>
 <H2>  RNF-01 </H2>
@@ -73,7 +71,6 @@ Se van a necesitar a 6 desarrolladores para realizar el código y un (1) QA que 
 <H2>  RNF-04 </H2>
 El producto se usará localmente en la laptop de forma local.
 <br/>
-  
 </article>
 <article>
 <H2>Especificaciones técnicas para la versión Prototipo: </H2>
