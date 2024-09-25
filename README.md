@@ -95,8 +95,10 @@ El producto se usará localmente en la laptop de forma local.
 <br/>
 <H2> RNF-05 </H2>
   <p> La página será compatible con varios navegadores (brave,Chrome,Fox etc.). </p>
+  <br/>
 <h2> RNF--06</h2>
   <p>El codigo de todo el producto estara documentado y bien estructurado para futuras lecturas y actualizaciones</p>
+  <br/>
   <H2> RNF-07 </H2>
 Todo será de facil navegación para la facilitación del disfrute y uso de la página.
   <br/>
