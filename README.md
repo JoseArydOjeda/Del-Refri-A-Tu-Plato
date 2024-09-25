@@ -54,9 +54,7 @@ d. Acerca del sitio. (Créditos a los autores)
 <h2> RF-05 </h2>
   <p> En la parte superior aparecerá un filtro para que el usuario pueda escribir el nombre de alguno de los ingredientes de la receta que sea de su interés. </p>
   <br />
-
 Si el visitante da clic en el botón del filtro sin haber escrito algo en la casilla, el sistema presentará todas las recetas.
- 
 </article>
 <article>
 <H2>  RNF-01 </H2>
