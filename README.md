@@ -6,7 +6,6 @@
   <tittle>Del Refria tu Plato</tittle>
 </head>
 <body>
-<H1>De-Tu-Refri-a-Tu-Cocina</H1>
 
 <H2><center>¡Hola!, bienvenido a tu nueva página favorita acerca de cocina, donde podrás encontrar diferentes recetas de cocina que saciarán tu paladar, prueba con algunas de las recetas que tenemos para ti.</center></H2>
 <br />
@@ -32,15 +31,73 @@ Cuando se use el filtro para buscar una receta usando ingredientes, el sistema d
 Para simplificar la presentación solo se deben presentar el nombre de la receta y los ingredientes, los detalles o pasos a 
 seguir deben aparecer en un página independiente.
 <br/> 
+<article>
 <H2> RF-01  </H2>
 Al llegar  a la página se presentará una página de bienvenida.
 <br/>  
  <H2> RF-02 </H2>
 En la página aparecerán las 5 recetas más solicitadas y las instrucciones de uso del sitio
 <br/>
+<H2> RF-03 </H2>
+En la parte superior tendremos las opciones. 
+a. Home (para regresar al principio)
+<br/>
+b. Recetas (Para ingresar a la aplicación)
+<br/>
+c. Aviso de privacidad.
+<br/>
+d. Acerca del sitio. (Créditos a los autores)
+<br/>
+<h2> RF-04 </h2>
+  <p> Si el visitante selecciona la opción "Recetas", ingresará a la aplicación. </p>
+<h2> RF-05 </h2>
+  <p> En la parte superior aparecerá un filtro para que el usuario pueda escribir el nombre de alguno de los ingredientes de la receta que sea de su interés. </p>
+<h2> RF-06 </h2>
+Si el visitante da clic en el botón del filtro sin haber escrito algo en la casilla, el sistema presentará todas las recetas.
+<H2> RF-07 </H2>
+  <p> Si se escribe una palabra o más palabras separadas por comas, el sistema realizará la búsqueda y presentará las recetas que contengan estos ingredientes. </p> 
+<H2> RF-08 </H2>
+  <p> La página deberá presentar la(s) receta(s) que contengan el ingrediente en una lista con nombre e ingredientes, sin las instrucciones. </p>
+<h2> RF-09 </h2>
+ <p>En la lista presentada, a la derecha de cada receta tendremos dos opciones:</p>
+ <ol>
+  <li>Ver detalle (para ver las instrucciones o los pasos de elaboracion)</li>
+  <li>Editar (Para poder modificar la receta)</li>
+  <li>Eliminar (Para borrar una receta)</li>
+ </ol>
+<h2> RF-10 </h2>
+ <p>En la parte inferior del filtro antes de hacer una consulta aparecera un boton para agregar nuevas recetas</p>
+<h2>  RF-11 </h2>
+Cuando se presenten los resultados de la consulta, el bot[on aparecera debajo del listado.
+<br/>
+<h2> RF-12  </h2>
+Una receta debe tener Nombre, instrucciones de elaboración (pasos) e ingredientes.
+<br/>
+  <br/>
 <H2>  RNF-01 </H2>
 Las recetas deberán salir en menos de 3 segundos 
 <br/>
+<H2>  RNF-02 </H2>
+Se van a necesitar a 6 desarrolladores para realizar el código y un (1) QA que pruebe el producto
+<br/>
+<h2> RNF-03 </h2>
+  <p> El producto estará disponible el 99.9% de las veces. </p>
+<H2>  RNF-04 </H2>
+El producto se usará localmente en la laptop de forma local.
+<br/>
+<H2> RNF-05 </H2>
+  <p> La página será compatible con varios navegadores (brave,Chrome,Fox etc.). </p>
+<h2> RNF-06</h2>
+  <p>El codigo de todo el producto estara documentado y bien estructurado para futuras lecturas y actualizaciones</p>
+  <H2> RNF-07 </H2>
+Todo será de fácil navegación para la facilitación del disfrute y uso de la página.
+  <br/>
+  <H2> RNF-08 </H2>
+  El código estará hecho de manera que, al agregar nuevas features, ninguna existente sea afectada.
+  <br/>
+  <br/>
+</article>
+<article>
 <H2>Especificaciones técnicas para la versión Prototipo: </H2>
 Las recetas no tendrán imágenes.
 El prototipo no tendrá seguridad
