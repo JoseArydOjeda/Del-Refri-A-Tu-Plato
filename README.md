@@ -83,7 +83,7 @@ Si el visitante da clic en el botón del filtro sin haber escrito algo en la cas
  <p>En la parte inferior del filtro antes de hacer una consulta aparecera un boton para agregar nuevas recetas</p>
 <br/>
 <h2> RF-11 </h2>
-Cuando se presenten los resultados de la consulta, el botón aparecerá debajo del listado.
+Cuando se presenten los resultados de la consulta, el botón para agregar y editar recetas aparecerá debajo del listado.
   <br/>
 <h2> RF-12 </h2>
 Una receta debe tener Nombre, instrucciones de elaboración (pasos) e ingredientes.
