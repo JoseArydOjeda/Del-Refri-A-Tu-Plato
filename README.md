@@ -103,6 +103,9 @@ El producto se usará localmente en la laptop de forma local.
 <h2> RNF-07</h2>
 Todo será de fácil navegación para la facilitación del disfrute y uso de la página.
   <br/>
+<h2> RNF-08</h2>
+El código estará hecho de manera que, al agregar nuevas features, ninguna existente sea afectada.
+  <br/>
 </article>
 <article>
 <H2>Especificaciones técnicas para la versión Prototipo: </H2>
