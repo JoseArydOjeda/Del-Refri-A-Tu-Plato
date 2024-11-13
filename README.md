@@ -18,6 +18,10 @@
   <br />
   <a href="Link del apartado"> Frijol con puerco </a>
   <br/>
+  <a href="Link del apartado"> Spaghetti </a>
+  <a href="Link del apartado"> Burritas </a>
+  <a href="Link del apartado"> HotCakes </a>
+  
 <p>
   Mi-branch
   Sistema de Recetas en línea.
