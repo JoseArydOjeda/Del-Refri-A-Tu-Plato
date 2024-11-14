@@ -1,0 +1,49 @@
+body {
+    background-color: blueviolet;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+.menu {
+    list-style: none;
+    background-color: beige;
+    padding: 20px;
+}
+
+.menu li {
+    position: relative;
+    display: inline-block;
+}
+
+.menu li:hover ul {
+    display: block;
+}
+
+.menu ul {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: antiquewhite;
+}
+
+.menu ul li a {
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+    color:black;
+}
+
+.menu ul li a :hover {
+    background-color: white;
+}
+
+.menu li a {
+    text-decoration: none;
+    padding: 10px;
+}
