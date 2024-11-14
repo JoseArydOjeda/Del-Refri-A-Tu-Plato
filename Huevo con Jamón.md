@@ -2,7 +2,7 @@
 <!DOCYPE html>
 <html>
   <head>
-    <title>Huevo con jamón</title>
+    <tittle>Huevo con jamón</tittle>
   </head>
   <body>
     <h1>Huevo con jamón</h1>
