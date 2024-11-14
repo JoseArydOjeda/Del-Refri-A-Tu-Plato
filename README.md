@@ -4,8 +4,9 @@
 <html>
 <head>
   <tittle>Del Refria tu Plato</tittle>
-  <link rel="stylesheet" href="https://stackpath.bootsrapcdn.com/boostrap/4.4.1/css/bootsrap.min.css"/>
-  <link rel="stylesheet" href="style.css"/>
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
+  <link rel="stylesheet" type="text/css" href="style.css"/>
 </head>
   
 <body>
