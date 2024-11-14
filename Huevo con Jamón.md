@@ -16,8 +16,10 @@
         <li>Sal</li>
         <li>Espátula</li>
         <li>Sartén</li>
+        <li>Aceite</li>
       </ul>
-    
+    <h2>Modo de preparación</h2>
+      
 
 
 
