@@ -15,7 +15,7 @@
     <h2><center>¡Hola!, bienvenido a tu nueva página favorita acerca de cocina, donde podrás encontrar diferentes recetas de cocina que saciarán tu paladar, prueba con algunas de las recetas que tenemos para ti.</center></h2>
     <nav class="menu">
       <ul>
-        <li><a href="#">Home</a></li>
+        <li><a href="README.md">Home</a></li>
         <li><a href="#">Recetas</a></li>
         <li><a href="#">Aviso de privacidad</a></li>
         <li><a href="#">Acerca del sitio</a></li>
