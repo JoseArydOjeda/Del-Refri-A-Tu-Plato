@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <tittle>Del Refria tu Plato</tittle>
+    <tittle>Del Refri a tu Plato</tittle>
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
     <link rel="stylesheet" type="text/css" href="style.css"/>
