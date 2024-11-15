@@ -6,7 +6,7 @@
   </head>
   <body>
     <h1>Frijol con puerco</h1>
-    <img src="link de la imagen"
+    <img src="Frijol con puerco img.jfif"
       title="Imagen ilustrativa de la receta"
       alt="Imagen de huevo con jamón"/>
     <h2>Ingredientes y materiales</h2>
